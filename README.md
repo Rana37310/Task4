@@ -1,4 +1,4 @@
-# Task 3
+# Task 4
 Decimal to Binary Conversion
 ## Instructions
 To run the code, execute the `main` class.
