@@ -2,12 +2,7 @@
 // Class Description: to present the converting from decimal to binary
 // Author: Rana Albedaiwi
 // Date : 6/19/2024
-/*
- Implement a PHP function that converts a given decimal number into its 
-binary representation using bitwise operators. Explain the bitwise operations used in your 
-code. 
-I explained in the decimalToBinary function in DecBinConversion class. 
-*/
+
 
 require_once 'DecBinConversion.php'; 
 
